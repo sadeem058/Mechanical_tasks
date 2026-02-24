@@ -31,20 +31,20 @@ ______
 ## (Gear) Design
 
 •	From Add Custom Features, selected Spur Gear and set:
-	•	Number of teeth = 50
-	•	Tooth depth = 9.7
-	•	Diameter = 77.7
-	•	Center bore = 7.1
-	•	Created a circle on the gear with a diameter of 77.7 to cover the extra part from the spur gear.
-	•	Applied an extrude with a depth of 27.
-	•	Added fillets to each gear tooth.
-	•	Added a 1 mm fillet to the lower circular edge.
-	•	Created a bottom circle with a diameter of 17.8.
-	•	Added 6 holes around it:
-	•	Distance from the inner circle edge = 3.2
-	•	Hole diameter = 3.2
-	•   ⁠Between each two small circles is an area of ​​13.7
-	•   ⁠Changed the color to purple.
+•	Number of teeth = 50
+•	Tooth depth = 9.7
+•	Diameter = 77.7
+•	Center bore = 7.1
+•	Created a circle on the gear with a diameter of 77.7 to cover the extra part from the spur gear.
+•	Applied an extrude with a depth of 27.
+•	Added fillets to each gear tooth.
+•	Added a 1 mm fillet to the lower circular edge.
+•	Created a bottom circle with a diameter of 17.8.
+•	Added 6 holes around it:
+•	Distance from the inner circle edge = 3.2
+•	Hole diameter = 3.2
+•   ⁠Between each two small circles is an area of ​​13.7
+•   ⁠Changed the color to purple.
 
 ### Design Preview
 ![Gear-before](https://github.com/sadeem058/First-Week/blob/main/Gear-befor.jpeg)
