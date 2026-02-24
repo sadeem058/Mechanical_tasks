@@ -160,7 +160,7 @@ _______
 
 ![Screenshot (420)](https://github.com/sadeem058/First-Week/blob/main/Screenshot%20(420).png)
 ![Screenshot (421)](https://github.com/sadeem058/First-Week/blob/main/Screenshot%20(421).png)
-[![Screenshot (422)](screenshot(422).png)](robot%20arm%20mov.mp4)
+[![robotARM](Screenshot%20(422).png)](robot%20arm%20mov.mp4)
 
 
 _______
