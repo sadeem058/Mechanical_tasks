@@ -160,6 +160,9 @@ _______
 
 ![Screenshot (420)](https://github.com/sadeem058/First-Week/blob/main/Screenshot%20(420).png)
 ![Screenshot (421)](https://github.com/sadeem058/First-Week/blob/main/Screenshot%20(421).png)
+
+# Video here:
+
 [![robotARM](Screenshot%20(422).png)](robot%20arm%20mov.mp4)
 
 
@@ -253,10 +256,12 @@ Design Steps:
 I assembled all the suspension components in the Assembly workspace.
 I used proper mates to align the parts correctly and make sure the movement looks realistic.
 
+# Video here:
+
 [![suspension](suspension.png)](Suspension%20mov.mp4)
 
 
-
+________
 ## LAST TASKS
 ![taskk](https://github.com/sadeem058/Mechanical_tasks/blob/main/taskk.jpeg)
 
@@ -275,6 +280,9 @@ The individual gear ratios between each pair are as follows:
 By multiplying these ratios together, the total gear ratio equals 18, which explains how one full rotation of the first gear results in 18 rotations of the final gear.
 
 ![g](https://github.com/sadeem058/Mechanical_tasks/blob/main/g.png)
+
+# Video here:
+
 [![4gear1:18](g1.png)](Planetary%20_%20Assembly%201%20and%202%20more%20pages%20-%20Personal%20-%20Microsoft​%20Edge%201447-09-14%2001-02-32.mp4)
 
 # Second Quastion solve:
@@ -284,3 +292,6 @@ By multiplying these ratios together, the total gear ratio equals 18, which expl
 ![p1](https://github.com/sadeem058/Mechanical_tasks/blob/main/p1.png)
 ![p2](https://github.com/sadeem058/Mechanical_tasks/blob/main/p2.png)
 ![p3](https://github.com/sadeem058/Mechanical_tasks/blob/main/p3.png)
+# I didnt include the video coz its too large. But this is my Onshape acc if you wanna to check out my work.
+email: sadeemjamal058@gmail.com
+pass: Sadeemjamal12345
