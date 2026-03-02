@@ -94,6 +94,9 @@ ______
 
 
 ______
+# Task Week2
+![task2](https://github.com/sadeem058/Mechanical_tasks/blob/main/WhatsApp%20Image%202026-03-03%20at%202.03.30%20AM.jpeg)
+
 ## (Base) Printing Specification
 
 This base model was printed while preserving the original **length and width** with no changes applied to its outer dimensions. The only modification performed was a **bottom carving (hollowing)** using the **Shell** tool to reduce material usage.
