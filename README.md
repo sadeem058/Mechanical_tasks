@@ -268,12 +268,19 @@ The first gear has 216 teeth, the second gear has 20 teeth, the third gear has 5
 Each gear is meshed with the one next to it. When the largest gear (216 teeth) makes one complete rotation, the last gear (12 teeth) rotates 18 times. Therefore, the overall gear ratio of the system is 1:18.
 
 The individual gear ratios between each pair are as follows:
-	•	The first gear to the second gear: 10.8
-	•	The second gear to the third gear: 0.4
-	•	The third gear to the last gear: 4.166
+	•	The first gear to the second gear RATIO: 10.8
+	•	The second gear to the third gear RATIO: 0.4
+	•	The third gear to the last gear RATIO: 4.166
 
 By multiplying these ratios together, the total gear ratio equals 18, which explains how one full rotation of the first gear results in 18 rotations of the final gear.
 
-![g1](https://github.com/sadeem058/Mechanical_tasks/blob/main/g.png)
-[![](suspension.png)](Suspension%20mov.mp4)
+![g](https://github.com/sadeem058/Mechanical_tasks/blob/main/g.png)
+[![4gear1:18](g1.png)](Planetary%20_%20Assembly%201%20and%202%20more%20pages%20-%20Personal%20-%20Microsoft​%20Edge%201447-09-14%2001-02-32.mp4)
 
+# Second Quastion solve:
+
+![pp](https://github.com/sadeem058/Mechanical_tasks/blob/main/pp.png)
+
+![p1](https://github.com/sadeem058/Mechanical_tasks/blob/main/p1.png)
+![p2](https://github.com/sadeem058/Mechanical_tasks/blob/main/p2.png)
+![p3](https://github.com/sadeem058/Mechanical_tasks/blob/main/p3.png)
