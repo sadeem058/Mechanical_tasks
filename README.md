@@ -256,11 +256,8 @@ The individual gear ratios between each pair are as follows:
 
 By multiplying these ratios together, the total gear ratio equals 18, which explains how one full rotation of the first gear results in 18 rotations of the final gear.
 
-![g](https://github.com/sadeem058/Mechanical_tasks/blob/main/g.png)
-
-# Video here:
-
-[![4gear1:18](g1.png)](Planetary%20_%20Assembly%201%20and%202%20more%20pages%20-%20Personal%20-%20Microsoft​%20Edge%201447-09-14%2001-02-32.mp4)
+![Screenshot](https://github.com/sadeem058/Mechanical_tasks/blob/main/Screenshot%20(11).png)
+![Screenshot](https://github.com/sadeem058/Mechanical_tasks/blob/main/Screenshot%20(12).png)
 
 # Second Quastion solve:
 
@@ -268,7 +265,7 @@ By multiplying these ratios together, the total gear ratio equals 18, which expl
 
 ![p1](https://github.com/sadeem058/Mechanical_tasks/blob/main/p1.png)
 ![p2](https://github.com/sadeem058/Mechanical_tasks/blob/main/p2.png)
-![p3](https://github.com/sadeem058/Mechanical_tasks/blob/main/p3.png)
-# I didnt include the video coz its too large. But this is my Onshape acc if you wanna to check out my work.
+[![p3](p3.png)](Planetary_Assembly1and2morepages-Personal-Microsoft​Edge1447-09-1401-02-32.mp4)
+# I didnt include the video of 4 gears coz its too large. But this is my Onshape acc if you wanna to check out my work.
 email: sadeemjamal058@gmail.com
 pass: Sadeemjamal12345
