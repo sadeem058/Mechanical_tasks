@@ -245,14 +245,14 @@ ________
 # First Quastion solve:
 
 I designed a gear system consisting of four gears.
-The first gear has 216 teeth, the second gear has 20 teeth, the third gear has 50 teeth, and the last gear has 12 teeth.
+The first gear has 72 teeth, the second gear has 20 teeth, the third gear has 60 teeth, and the last gear has 12 teeth.
 
-Each gear is meshed with the one next to it. When the largest gear (216 teeth) makes one complete rotation, the last gear (12 teeth) rotates 18 times. Therefore, the overall gear ratio of the system is 1:18.
+Each gear is meshed with the one next to it. When the largest gear (72 teeth) makes one complete rotation, the last gear (12 teeth) rotates 18 times. Therefore, the overall gear ratio of the system is 1:18.
 
 The individual gear ratios between each pair are as follows:
-	•	The first gear to the second gear RATIO: 10.8
-	•	The second gear to the third gear RATIO: 0.4
-	•	The third gear to the last gear RATIO: 4.166
+	•	The first gear to the second gear RATIO: 3.6
+	•	The second gear to the third gear RATIO: 1
+	•	The third gear to the last gear RATIO: 5
 
 By multiplying these ratios together, the total gear ratio equals 18, which explains how one full rotation of the first gear results in 18 rotations of the final gear.
 
