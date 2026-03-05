@@ -138,7 +138,7 @@ _______
 ![Screenshot (420)](https://github.com/sadeem058/First-Week/blob/main/Screenshot%20(420).png)
 ![Screenshot (421)](https://github.com/sadeem058/First-Week/blob/main/Screenshot%20(421).png)
 
-# Video here:
+# VIDEO HERE:
 
 [![robotARM](Screenshot%20(422).png)](robot%20arm%20mov.mp4)
 
@@ -233,7 +233,7 @@ Design Steps:
 I assembled all the suspension components in the Assembly workspace.
 I used proper mates to align the parts correctly and make sure the movement looks realistic.
 
-# Video here:
+# VIDEO HERE:
 
 [![suspension](suspension.png)](Suspension%20mov.mp4)
 
@@ -265,6 +265,9 @@ By multiplying these ratios together, the total gear ratio equals 18, which expl
 
 ![p1](https://github.com/sadeem058/Mechanical_tasks/blob/main/p1.png)
 ![p2](https://github.com/sadeem058/Mechanical_tasks/blob/main/p2.png)
+
+# VIDEO HERE:
+
 [![p3](p3.png)](Planetary_Assembly1and2morepages-Personal-Microsoft​Edge1447-09-1401-02-32.mp4)
 # I didnt include the video of 4 gears coz its too large. But this is my Onshape acc if you wanna to check out my work.
 email: sadeemjamal058@gmail.com
