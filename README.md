@@ -269,6 +269,4 @@ By multiplying these ratios together, the total gear ratio equals 18, which expl
 # VIDEO HERE:
 
 [![p3](p3.png)](Planetary_Assembly1and2morepages-Personal-Microsoft​Edge1447-09-1401-02-32.mp4)
-# I didnt include the video of 4 gears coz its too large. But this is my Onshape acc if you wanna to check out my work.
-email: sadeemjamal058@gmail.com
-pass: Sadeemjamal12345
+# I didnt include the video of 4 gears coz its too large. But if you wanna to check out my work I will send it in DM for you.
